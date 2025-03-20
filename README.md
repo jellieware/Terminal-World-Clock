@@ -1,5 +1,9 @@
 # Terminal-World-Clock
 
+![1000016636](https://github.com/user-attachments/assets/2a78c590-dd15-4069-b903-8c95c7d79b44)
+
+
+
 A minimal world clock for the terminal
 
 Choose between Vertical or Horizontal Layout
