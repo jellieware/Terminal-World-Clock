@@ -12,6 +12,7 @@ Updates every minute
 
 Press "q" to quit
 
+Press "d" to toggle dst
 
 ![1000062129](https://github.com/user-attachments/assets/af2efb85-6ff5-4e4f-b0cf-88d4ec518e30)
 
